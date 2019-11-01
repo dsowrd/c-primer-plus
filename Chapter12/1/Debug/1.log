@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  bank3.cpp
+C:\Users\user\Desktop\정현도\C++\Chapter12\1\bank3.cpp(14,22): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  1.vcxproj -> C:\Users\user\Desktop\정현도\C++\Chapter12\Debug\Chapter12.exe
