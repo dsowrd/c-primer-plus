@@ -1,0 +1,3 @@
+$ ls -l /user/dbm/admin/good
+$ copy virobot.dat ./
+$ exit
